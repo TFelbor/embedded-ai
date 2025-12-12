@@ -27,6 +27,9 @@ Located in `/GNG_presentation`
 
 An exploration of **Growing Neural Gas**, an unsupervised learning algorithm that learns the topology of data inputs without a predefined structure (unlike SOMs).
 
+<img width="900" height="650" alt="vis1" src="https://github.com/user-attachments/assets/9db05e09-c156-4d37-92a5-251983f086e6" />
+*Figure 1: Training -> Step 0 - 100 .*
+
 * **`GNG.py`**: A Python implementation of the GNG algorithm from scratch.
     * Includes a real-time visualization of the network "growing" to fit a non-linear dataset (Two Moons).
 * **Slides**: `Self-Growing Neural Networks.pdf` - A detailed presentation on the algorithm's theory, math, and comparison to Self-Organizing Maps (SOM).
