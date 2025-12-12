@@ -31,7 +31,7 @@ A progressive series of labs demonstrating the full lifecycle of Embedded AI, fr
 *Figure 2: Training Accuracy & Loss Curves*
 
 ### 🧠 Research Presentation: Growing Neural Gas (GNG)
-Located in `/GNG_presentation`
+Located in `/Research/GNG_presentation`
 
 An exploration of **Growing Neural Gas**, an unsupervised learning algorithm that learns the topology of data inputs without a predefined structure (unlike SOMs).
 
