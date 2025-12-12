@@ -7,6 +7,10 @@ This repository contains my coursework, lab implementations, and research presen
 ### 🧪 Labs: Edge AI Pipeline
 A progressive series of labs demonstrating the full lifecycle of Embedded AI, from training to deployment on an **STM32L476RGT6** (Cortex-M4).
 
+<img width="325" height="285" alt="microcontroller" src="https://github.com/user-attachments/assets/3f3337d7-b78b-4f51-84de-58d8c9c278aa" />
+
+*Figure 1: RFThings-AI Dev Kit board equipped with a STM32L476RGT6 Microcontroller*
+
 * **Lab 1: Environment Setup**
     * Established a Docker-based toolchain with TensorFlow and Arduino IDE.
     * Verified hardware constraints (80 MHz, 128 KB SRAM, 1 MB Flash).
@@ -21,10 +25,6 @@ A progressive series of labs demonstrating the full lifecycle of Embedded AI, fr
     * **Data:** Collected a custom accelerometer dataset (Positive/Negative activity classes) using the RFThings board.
     * **Modeling:** Trained a 1D-CNN in TensorFlow/Keras on the custom time-series data.
     * **Deployment:** Converted the model to a 16-bit fixed-point C library and integrated it into the microcontroller firmware for real-time inference (LED actuation upon detection).
-
-<img width="325" height="285" alt="microcontroller" src="https://github.com/user-attachments/assets/3f3337d7-b78b-4f51-84de-58d8c9c278aa" />
-
-*Figure 1: RFThings-AI Dev Kit board equipped with a STM32L476RGT6 Microcontroller*
 
 <img width="1185" height="490" alt="plots" src="https://github.com/user-attachments/assets/9f16c64a-6863-482e-bc98-9a01463b8709" />
 
