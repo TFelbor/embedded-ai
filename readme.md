@@ -29,7 +29,23 @@ An exploration of **Growing Neural Gas**, an unsupervised learning algorithm tha
 
 <img width="900" height="650" alt="vis1" src="https://github.com/user-attachments/assets/9db05e09-c156-4d37-92a5-251983f086e6" />
 
-*Figure 1: Training -> Step 0 - 100 .*
+*Figure 1: Training -> Step 0 - 100*
+
+<img width="900" height="650" alt="vis2" src="https://github.com/user-attachments/assets/8a0a1940-d13c-4c4d-a529-683179be36c8" />
+
+*Figure 2: Training -> Step 100 - 1,000*
+
+<img width="900" height="650" alt="vis3" src="https://github.com/user-attachments/assets/550dc022-644f-4ae4-83e8-dc82b39cf224" />
+
+*Figure 3: Training -> Step 1,000 - 3,000*
+
+<img width="900" height="650" alt="vis4" src="https://github.com/user-attachments/assets/743ff08a-dfa7-4529-a534-a740d99de2bd" />
+
+*Figure 4: Training -> Step 3,000 - 8,000*
+
+<img width="900" height="650" alt="vis5" src="https://github.com/user-attachments/assets/353f5648-3931-4251-8c69-1445b41252e2" />
+
+*Figure 5: Training -> Step 8,000 - 12,000*
 
 * **`GNG.py`**: A Python implementation of the GNG algorithm from scratch.
     * Includes a real-time visualization of the network "growing" to fit a non-linear dataset (Two Moons).
