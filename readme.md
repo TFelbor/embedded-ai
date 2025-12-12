@@ -1,3 +1,3 @@
 # Embedded AI - Course Contents
 
-This repository contains the course contents like labs & presentation from the course.
+This repository contains the course contents like lab reports & presentation from the course.
