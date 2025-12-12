@@ -1,0 +1,9 @@
+# Core Data & ML Libraries
+numpy
+matplotlib
+scikit-learn
+tensorflow
+keras
+
+# Utilities
+jupyter
