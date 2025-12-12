@@ -20,7 +20,7 @@ A progressive series of labs demonstrating the full lifecycle of Embedded AI, fr
     * **Key Achievement:** Manually implemented Dense and Convolutional layers in C to understand the low-level arithmetic of inference.
     * Used the **MicroAI** tool to automatically generate optimized, fixed-point C code from Keras models.
 
-* **Lab 3: Human Activity Recognition (PolyHAR)**
+* **Lab 3: Human Movement Recognition (PolyHAR)**
     * **Goal:** Real-time Human Activity Recognition (HAR) on-device.
     * **Data:** Collected a custom accelerometer dataset (Positive/Negative activity classes) using the RFThings board.
     * **Modeling:** Trained a 1D-CNN in TensorFlow/Keras on the custom time-series data.
