@@ -1,6 +1,6 @@
 # Embedded AI Portfolio
 
-This repository contains my coursework, lab implementations, and research presentations for the **Embedded Artificial Intelligence** course at Polytech Nice Sophia. The projects focus on deploying Deep Learning models (CNNs) onto resource-constrained microcontrollers (STM32L4) and exploring unsupervised learning algorithms.
+This repository contains my coursework, lab implementations, and research presentation for the **Embedded Artificial Intelligence** course at Polytech Nice Sophia. The projects focus on deploying Deep Learning models (CNNs) onto resource-constrained microcontrollers (STM32L4) and exploring unsupervised learning algorithms.
 
 ## 📂 Repository Structure
 
